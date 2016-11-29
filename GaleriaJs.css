@@ -1,0 +1,70 @@
+body{
+  background-image: url(https://mariopatinoartist.files.wordpress.com/2015/08/mario-patic3b1o-fernando-morales-marquez-ernesto-valencia-guerrero-trevol-andrey-performance-art-mexico-arte-de-en-accion-6.jpg);
+  repeat: no-repeat ;
+  background-size: 100% ;
+}  
+#cont{
+  border: 0.5vw solid #32106A ;
+  display: flex ;
+  justify-content: space-around ;
+}
+
+.ip{
+  margin-top: 9px ;
+  width: 4vw ;
+  height: 4vw ;
+}
+
+#g{
+  /*border: 0.3vw dashed black ;*/
+  width: 43vw ;
+  height: 43vw ;
+}
+
+#pf{
+  margin-top: 12px ;
+  width: 42vw ;
+  height: 12.5vw ;
+  /*border: 3px solid black ;*/
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+}
+
+#sf{
+  margin-top: 12px ;
+  width: 42vw ;
+  height: 12.5vw ;
+ /* border: 3px solid black ;*/
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+}
+
+#tf{
+  margin-top: 12px ;
+  width: 42vw ;
+  height: 12.5vw ;
+ /*border: 3px solid black ;*/
+  display: flex ;
+  justify-content: space-around ;
+  align-items: center ;
+}
+
+.i{
+  border-radius: 5px ;
+  display: flex ;
+  background-repeat: round ;
+  width: 12vw ;
+  height: 12vw ;
+}
+
+#cf{
+  /*border: 0.3vw solid pink ;*/
+}
+
+
+#i0{
+  width: 43vw ;
+  height: 43vw ;
+}
